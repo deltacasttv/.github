@@ -13,32 +13,28 @@
 <p align="center">
    <img src="img/deltacast_logo.png" width="600">
 </p>
-We are a Belgian company designing and selling hardware and software video products.
 
-</br>
+<p>We are a Belgian company designing and selling hardware and software video products.</p>
 
-DELTACAST devices and software components mainly intend to bring in video connectivity to high-end and professional applications, under the form of PCI Express interface cards or under the form of software components for Video of IP.
-</br>
+<p>DELTACAST devices and software components mainly intend to bring in video connectivity to high-end and professional applications, under the form of PCI Express interface cards or under the form of software components for Video of IP.</p>
 
-DELTACAST video I/O products sit in computer systems used in TV broadcasting, digital cinema production, live events, corporate broadcasting, e-sports, medical video systems, industrial vision appliances, and many more!
-</br>
+<p>DELTACAST video I/O products sit in computer systems used in TV broadcasting, digital cinema production, live events, corporate broadcasting, e-sports, medical video systems, industrial vision appliances, and many more!</p>
 
-Learn more on [www.deltacast.tv](https://www.deltacast.tv)
+<p>Learn more on <a href="https://www.deltacast.tv">www.deltacast.tv</a></p>
 
 # What is DELTACAST VideoMaster ?
 
-**VideoMaster** is the software environment allowing the usage of [DELTACAST video I/O cards and FLEX solution](https://www.deltacast.tv/products/developer-products) on Windows, Linux and macOS computer platforms.
+<p><b>VideoMaster</b> is the software environment allowing the usage of <a href="https://www.deltacast.tv/products/developer-products">DELTACAST video I/O cards and FLEX solution</a> on Windows, Linux and macOS computer platforms.</p>
 
 <p align="center">
    <img src="img/cards.png" width="700">
 </p>
-DELTACAST PCIe boards and FLEX modules provide video I/O connectivity in SDI, HDMI, DisplayPort, ASI, IP to computer-based application.
 
-</br>
+<p>DELTACAST PCIe boards and FLEX modules provide video I/O connectivity in SDI, HDMI, DisplayPort, ASI, IP to computer-based application.</p>
 
-**VideoMaster** is essentially composed of drivers and libraries implementing the interfacing between the DELTACAST hardware, the platform and the operating system, as well as low-level features and video processing. That core software bundle is also surrounded by a series of components made to use the DELTACAST I/O cards in specific software frameworks and applications : Directshow filters, Unreal Engine plugin, Nvidia Holoscan operators, …
+<p><b>VideoMaster</b> is essentially composed of drivers and libraries implementing the interfacing between the DELTACAST hardware, the platform and the operating system, as well as low-level features and video processing. That core software bundle is also surrounded by a series of components made to use the DELTACAST I/O cards in specific software frameworks and applications : Directshow filters, Unreal Engine plugin, Nvidia Holoscan operators, …</p>
 
-The VideoMaster software environment also includes a [software development kit (SDK) for developers](https://www.deltacast.tv/products/developer-products/software-development-kit/videomaster-oem-sdk). The **VideoMaster SDK** allows OEMs and 3rd-party applications developers to make use of DELTACAST I/O boards to bring in video connectivity to their designs.
+<p>The VideoMaster software environment also includes a <a href="https://www.deltacast.tv/products/developer-products/software-development-kit/videomaster-oem-sdk">software development kit (SDK) for developers</a>. The <b>VideoMaster SDK</b> allows OEMs and 3rd-party applications developers to make use of DELTACAST I/O boards to bring in video connectivity to their designs.</p>
 
 <p align="center">
    <img src="img/videomaster.png">
@@ -46,15 +42,15 @@ The VideoMaster software environment also includes a [software development kit (
 
 # What is DELTACAST VideoMasterIP ?
 
-**VideoMasterIP** is the software part of the [IP Virtual Card](https://www.deltacast.tv/products/developer-products/ip-software/ip-virtual-card-smpte-st-2110-edition) concept.
+<p><b>VideoMasterIP</b> is the software part of the <a href="https://www.deltacast.tv/products/developer-products/ip-software/ip-virtual-card-smpte-st-2110-edition">IP Virtual Card</a> concept.</p>
 
 <p align="center">
    <img src="img/ipvc_logo.png">
 </p>
 
-The IP Virtual Card is a high-performance video streaming solution allowing to use COTS network cards to ingest and playout uncompressed video up to 4K as per SMPTE ST 2110.
+<p>The IP Virtual Card is a high-performance video streaming solution allowing to use COTS network cards to ingest and playout uncompressed video up to 4K as per SMPTE ST 2110.</p>
 
-The IP Virtual Card is available under Windows and Linux. It is provided as a set of software libraries and low-level components protected by runtime licenses and coming with a Software Development Kit (SDK) to develop computer-based ST 2110 video processing solutions.
+<p>The IP Virtual Card is available under Windows and Linux. It is provided as a set of software libraries and low-level components protected by runtime licenses and coming with a Software Development Kit (SDK) to develop computer-based ST 2110 video processing solutions.</p>
 
 # How to get VideoMaster and VideoMasterIP software ?
 
@@ -63,16 +59,16 @@ The VideoMaster software installers for Windows, Linux and maxOS, as well as the
    <a href="https://www.deltacast.tv/support/download-center">HTTPS://WWW.DELTACAST.TV/SUPPORT/DOWNLOAD-CENTER</a>
 </p>
 
-Under the “Documentations” section, the download center also hosts installation and cabling guides of all the DELTACAST products. Please carefully follow the instructions in these guides.
+<p>Under the “Documentations” section, the download center also hosts installation and cabling guides of all the DELTACAST products. Please carefully follow the instructions in these guides.</p>
 
 The VideoMasterIP software installers are also available, together with dedicated documentation, onto the DELTACAST download center at :
 <p align="center">
    <a href="https://www.deltacast.tv/support/download-center">HTTPS://WWW.DELTACAST.TV/SUPPORT/DOWNLOAD-CENTER</a>
 </p>
 
-To obtain a runtime license needed to execute the IP Virtual Card software components, please contact us at contact@deltacast.tv, or register yourself onto https://www.deltacast.tv/contact.
+<p>To obtain a runtime license needed to execute the IP Virtual Card software components, please contact us at contact@deltacast.tv, or register yourself onto https://www.deltacast.tv/contact.</p>
 
-If you are a developer and wish to obtain the VideoMaster SDK or the VideoMasterIP SDK, you will also need to contact our staff at contact@deltacast.tv, or register yourself onto https://www.deltacast.tv/contact.
+<p>If you are a developer and wish to obtain the VideoMaster SDK or the VideoMasterIP SDK, you will also need to contact our staff at contact@deltacast.tv, or register yourself onto https://www.deltacast.tv/contact.</p>
 
 # What is hosted on GitHub ?
 
