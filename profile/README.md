@@ -1,17 +1,10 @@
-[Who is DELTACAST?](#who-is-deltacast)
-
-[What is DELTACAST VideoMaster?](#what-is-deltacast-videomaster)
-
-[What is DELTACAST VideoMasterIP?](#what-is-deltacast-videomasterip)
-
-[How to get VideoMaster and VideoMasterIP software?](#how-to-get-videomaster-and-videomasterip-software)
-
-[What is hosted on this GitHub?](#what-is-hosted-on-github)
-
 # Who is DELTACAST?
 
 <p align="center">
-   <img src="img/deltacast_logo.png" width="600">
+   <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./img/deltacast_logo_darkmode.png">
+      <img alt="" src="./img/deltacast_logo_lightmode.png" width="600">
+   </picture>
 </p>
 
 <p>We are a Belgian company designing and selling hardware and software video products.</p>
@@ -20,65 +13,64 @@
 
 <p>DELTACAST video I/O products sit in computer systems used in TV broadcasting, digital cinema production, live events, corporate broadcasting, e-sports, medical video systems, industrial vision appliances, and many more!</p>
 
-<p>Learn more on <a href="https://www.deltacast.tv">www.deltacast.tv</a></p>
+<p>Learn more on <a href="https://www.deltacast.tv">www.deltacast.tv</a>.</p>
 
-# What is DELTACAST VideoMaster ?
+# What is DELTACAST VideoMaster?
 
 <p><b>VideoMaster</b> is the software environment allowing the usage of <a href="https://www.deltacast.tv/products/developer-products">DELTACAST video I/O cards and FLEX solution</a> on Windows, Linux and macOS computer platforms.</p>
 
 <p align="center">
-   <img src="img/cards.png" width="700">
+   <img src="img/cards.png" width="800">
 </p>
 
 <p>DELTACAST PCIe boards and FLEX modules provide video I/O connectivity in SDI, HDMI, DisplayPort, ASI, IP to computer-based application.</p>
 
-<p><b>VideoMaster</b> is essentially composed of drivers and libraries implementing the interfacing between the DELTACAST hardware, the platform and the operating system, as well as low-level features and video processing. That core software bundle is also surrounded by a series of components made to use the DELTACAST I/O cards in specific software frameworks and applications : Directshow filters, Unreal Engine plugin, Nvidia Holoscan operators, …</p>
+<p><b>VideoMaster</b> is essentially composed of drivers and libraries implementing the interface between the DELTACAST hardware, the platform and the operating system, as well as low-level features and video processing. That core software bundle is also surrounded by a series of components made to use the DELTACAST I/O cards in specific software frameworks and applications: Directshow filters, Unreal Engine plugin, Nvidia Holoscan operators, …</p>
 
 <p>The VideoMaster software environment also includes a <a href="https://www.deltacast.tv/products/developer-products/software-development-kit/videomaster-oem-sdk">software development kit (SDK) for developers</a>. The <b>VideoMaster SDK</b> allows OEMs and 3rd-party applications developers to make use of DELTACAST I/O boards to bring in video connectivity to their designs.</p>
 
 <p align="center">
-   <img src="img/videomaster.png">
+   <img src="img/videomaster.png"  width="600">
 </p>
 
-# What is DELTACAST VideoMasterIP ?
+# What is DELTACAST VideoMasterIP?
 
 <p><b>VideoMasterIP</b> is the software part of the <a href="https://www.deltacast.tv/products/developer-products/ip-software/ip-virtual-card-smpte-st-2110-edition">IP Virtual Card</a> concept.</p>
 
-<p align="center">
-   <img src="img/ipvc_logo.png">
+<p align="center">   
+   <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./img/ipvc_logo_darkmode.png">
+      <img alt="" src="./img/ipvc_logo_lightmode.png" width="600">
+   </picture>
 </p>
 
 <p>The IP Virtual Card is a high-performance video streaming solution allowing to use COTS network cards to ingest and playout uncompressed video up to 4K as per SMPTE ST 2110.</p>
 
 <p>The IP Virtual Card is available under Windows and Linux. It is provided as a set of software libraries and low-level components protected by runtime licenses and coming with a Software Development Kit (SDK) to develop computer-based ST 2110 video processing solutions.</p>
 
-# How to get VideoMaster and VideoMasterIP software ?
+# How to get VideoMaster and VideoMasterIP software?
 
-The VideoMaster software installers for Windows, Linux and maxOS, as well as the DELTACAST Directshow filters, are freely available onto the DELTACAST download center at :
+The VideoMaster software installers for Windows, Linux and macOS, as well as the DELTACAST Directshow filters, are freely available onto the DELTACAST download center at :
 <p align="center">
-   <a href="https://www.deltacast.tv/support/download-center">HTTPS://WWW.DELTACAST.TV/SUPPORT/DOWNLOAD-CENTER</a>
+   <a href="https://www.deltacast.tv/support/download-center">https://www.deltacast.tv/support/download-center</a>
 </p>
 
 <p>Under the “Documentations” section, the download center also hosts installation and cabling guides of all the DELTACAST products. Please carefully follow the instructions in these guides.</p>
 
-The VideoMasterIP software installers are also available, together with dedicated documentation, onto the DELTACAST download center at :
+The VideoMasterIP software installers are also available, together with dedicated documentation, onto the DELTACAST download center at:
 <p align="center">
-   <a href="https://www.deltacast.tv/support/download-center">HTTPS://WWW.DELTACAST.TV/SUPPORT/DOWNLOAD-CENTER</a>
+   <a href="https://www.deltacast.tv/support/download-center">https://www.deltacast.tv/support/download-center</a>
 </p>
 
-<p>To obtain a runtime license needed to execute the IP Virtual Card software components, please contact us at contact@deltacast.tv, or register yourself onto https://www.deltacast.tv/contact.</p>
+<p>To obtain a runtime license needed to execute the IP Virtual Card software components, please contact us at <a href="contact@deltacast.tv">contact@deltacast.tv</a>, or register yourself onto <a href="https://www.deltacast.tv/contact">https://www.deltacast.tv/contact</a>.</p>
 
-<p>If you are a developer and wish to obtain the VideoMaster SDK or the VideoMasterIP SDK, you will also need to contact our staff at contact@deltacast.tv, or register yourself onto https://www.deltacast.tv/contact.</p>
+<p>If you are a developer and wish to obtain the VideoMaster SDK or the VideoMasterIP SDK, you will also need to contact our staff at  <a href="contact@deltacast.tv">contact@deltacast.tv</a>, or register yourself onto <a href="https://www.deltacast.tv/contact">https://www.deltacast.tv/contact</a>.</p>
 
-# What is hosted on GitHub ?
+# What is hosted on GitHub?
 
-DELTACAST currently hosts the following project repositories on GitHub :
+The above mentioned VideoMaster and VideoMaster IP Software Development Kits contain tons of sample projects demonstrating the individual usage of DELTACAST products, features and working modes.
 
-|  |  |
-| --- | --- |
-| ![](img/unreal.png) | [ue-media-plugin](https://github.com/deltacasttv/ue-media-plugin) </br> The DELTACAST Unreal Engine (UE) plugin offers direct support of DELTACAST video cards into the Unreal Engine, allowing live video capture from DELTACAST card input ports to the Unreal Engine, and sending rendered video from UE to an output port of a DELTACAST video card. |
-| ![](img/videoviewer.png) | [video-viewer](https://github.com/deltacasttv/video-viewer) </br>Video monitoring module that manages to create a window with OpenGL context that displays incoming video data. |
-| ![](img/holohub.png) | [holohub](https://github.com/deltacasttv/holohub) </br> Fork from the Nvidia Holohub central repository extensions and applications for the Holoscan platform. Includes DELTACAST video I/O operators and sample applications.|
-| ![](img/nmos.png) | [nmos-ipvc-samples](https://github.com/deltacasttv/nmos-ipvc-samples) </br> NMOS IPVC samples explain the usage of the NMOS APIs in conjunction with IP Virtual Card VideoMasterIP API, to use as a reference for implementing IPVC solutions in media production and distribution workflows using NMOS. |
-| ![](img/overlay.png) | [overlay-from-live-content](https://github.com/deltacasttv/overlay-from-live-content) </br> Application that demonstrates the possibility to overlay content generated from live stream with minimal latency, using DELTACAST keyer-enabled video I/O cards and the VideoMaster SDK. |
-| ![](img/monitor.png) | [videomaster-video-monitor](https://github.com/deltacasttv/videomaster-video-monitor) </br> Application that displays the content of an input stream captured by a DELTACAST device, interfaced with the VideoMaster SDK. |
+To complete your developer toolkit, you will find here : 
+-	Higher-level applications combining multiple features. They can be used as-is, or they can constitute good foundation for your own project
+-	Resources for the integration of DELTACAST product in 3rd party software frameworks, like Nvidia Holoscan and Unreal Engine
+-	Some free-to-use video utilities
